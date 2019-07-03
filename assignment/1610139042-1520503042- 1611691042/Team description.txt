@@ -1,0 +1,5 @@
+Our group member's Name, ID, section and the languages we worked on are given below:
+Section: 06
+1. Sazzad Hossain, ID: 1610139042, Programming Language: Python
+2. Ebna Saykot Rayhan, ID: 1520503042, Programming Language: C++
+3. Sumaiya Ashfaque Shachcho, ID: 1611691042, Programming Language: Shell Script
